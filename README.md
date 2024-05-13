@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Systematic review, metaanalyses and data analyses
 - 📫 How to reach me komolayomi@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Most people count sheep, I lie awake at night making a list of all the places I've yet to visit
+- ⚡ Fun fact: Most people count sheep, I lie awake at night making a list of all the places I've yet to visit!
 
 <!---
 Omoly/Omoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
