@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omoly
 - 👀 I’m interested in real world evidence syntheses, pharmaceutical pricing, market access, reimbursement and cost-effectiveness research.
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on Systematic review, metaanalyses and data analyses
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Systematic review, metaanalysis and data analysis
 - 📫 How to reach me komolayomi@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Most people count sheep, I lie awake at night making a list of all the places I've yet to visit!
